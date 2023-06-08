@@ -1,5 +1,5 @@
-# StatisticGraphwithDatas
-Statistics and probability calculation of the number of corona viruses in Turkey in 2019.
+# Statistics and probability calculation of the number of corona viruses in Turkey in 2019.
+
 Mean:  106
 Median:  32
 Variance:  46748
